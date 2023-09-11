@@ -1,5 +1,5 @@
 # LTSSample
-Interview Project for Learn to Start. 
+Sample Project for Learn to Start. 
 - Demo/Walkthrough found here: https://youtu.be/E0nFjSd1UNs 
 
 # LTSFrontend
